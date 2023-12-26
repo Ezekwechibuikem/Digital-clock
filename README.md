@@ -1,5 +1,5 @@
-## Digital clock using C language 
+### Digital clock using C language 
 
-*Printing my current time 
+*Printing my current time*
 
 
